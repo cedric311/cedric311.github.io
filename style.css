@@ -23,10 +23,21 @@ h3{
     font-size: 150%;
     color: white;
 }
-.char{
+h4{
     text-align: center;
     color: white;
 }
+.char{
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    display: block;
+}
 p.img{
     text-align: center;
+}
+.link-name {
+    margin: 0px;
+    padding: 5px;
+    font-size: 48px;
 }
